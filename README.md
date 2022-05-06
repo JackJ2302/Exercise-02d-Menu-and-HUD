@@ -168,5 +168,4 @@ None
 Advanced features?
 
 ## Created by
-Jason Francis
-```
+Jack Joseph
